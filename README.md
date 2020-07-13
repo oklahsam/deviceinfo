@@ -11,3 +11,9 @@ For it to work properly, it has to be able to find the MAC address of the device
 There is also a second tab where you can search by IP or MAC address manually, so you can look for devices outside of just AD computers.
 
 I have tested this on Cisco 3750/3850s and various Aruba switches and it works great. I did also test it on my Ubiquiti switch at home and it didn't work there, so YMMV.
+
+
+A couple more notes:
+If the ports on the switch have a description, it will display it.
+
+You can click on the MAC address it finds for the device to copy it to your clipboard.
